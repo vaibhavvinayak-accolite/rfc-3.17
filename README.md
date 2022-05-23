@@ -20,7 +20,7 @@
    ```
    npx create-react-app my-app
    ```
-2. Install the required fusion chart dependencies\
+2. Install the required fusion chart dependencies
    ```
    cd my-app
    npm install fusioncharts react-fusioncharts --save
